@@ -1,3 +1,4 @@
+include ':petopedia-domain'
 include ':petopedia-data'
 include ':app'
 rootProject.name = "mypetopedia"
